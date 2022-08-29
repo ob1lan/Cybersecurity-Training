@@ -28,10 +28,10 @@ Blue Team members often work in a SOC (Security Operations Center) and use tools
 | 2. [TryHackMe Complete Beginner path](https://tryhackme.com/paths)                                              | Infra & Web  | ~64 hours | 10$/month    |
 | 3. [TryHackMe Offensive Security path](https://tryhackme.com/paths)                                             | Infra & Web  | ~47 hours | 10$/month    |
 | 4. [TryHackMe Web Fundamentals path](https://tryhackme.com/paths)                                               | Web only     | ~37 hours | 10$/month    |
-| 5. [INE Penetration Testing Student path](https://ine.com/)                                                     | Infra & Web  | ~38 hours | Free path    |
+| 5. [INE Penetration Testing Student path](https://ine.com/learning/certifications/internal/elearnsecurity-junior-penetration-tester)                                                     | Infra & Web  | ~38 hours | Free path    |
 | 6. [Pentester Academy Web Application Security bootcamp](https://bootcamps.pentesteracademy.com/certifications) | Web only     | ~12 hours | 299$ w/ exam |
 #### Milestone
-- [eLearnSecurity Junior Penetration Tester (eJPT) certification](https://elearnsecurity.com/product/ejpt-certification/)
+- [eLearnSecurity Junior Penetration Tester (eJPT) certification](https://ine.com/learning/certifications/internal/elearnsecurity-junior-penetration-tester)
 - [Pentester Academy Web Application Security Professional (PaWASP) certification](https://bootcamps.pentesteracademy.com/certifications)
 ---
 ### Early Intermediate level
