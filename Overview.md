@@ -47,7 +47,7 @@ Blue Team members often work in a SOC (Security Operations Center) and use tools
 #### Milestone
 - [eLearnSecurity Certified Professional Penetration Tester (eCPPTv2) certification](https://elearnsecurity.com/product/ecpptv2-certification/)
 - [Offensive Security Certified Professional (OSCP) certification](https://www.offensive-security.com/pwk-oscp/)
-- [Offensive Security Web Assessor](https://www.offensive-security.com/web200-oswa/)
+- [Offensive Security Web Assessor (OSWA) certification](https://www.offensive-security.com/web200-oswa/)
 ---
 ### Advanced level
 #### Study material & courses
@@ -59,4 +59,4 @@ Blue Team members often work in a SOC (Security Operations Center) and use tools
 #### Milestone
 - [eLearnSecurity Certified Penetration Tester eXtreme (eCPPTx) certification](https://elearnsecurity.com/product/ecptx-certification/)
 - [Offensive Security Experienced Penetration Tester (OSEP) certification](https://www.offensive-security.com/pen300-osep/)
-- [Offensive Security Web Expert](https://www.offensive-security.com/awae-oswe/)
+- [Offensive Security Web Expert (OSWE) certification](https://www.offensive-security.com/awae-oswe/)
