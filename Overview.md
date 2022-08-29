@@ -8,7 +8,7 @@ You'll try to think like a malicious actor and use the tools and techniques a ha
 - __Cyber Defense__: often refered to as "blue team", you'll be defending your company against the numerous cyber threat by leveraging logs, alerts, proactive monitoring and other techniques.
 Blue Team members often work in a SOC (Security Operations Center) and use tools such as SIEM/SOAR to handle security events and treat them.
 - __Governance, Risk Management and Compliance (GRC)__: a less popular part of cybersecurity but yet an important one (if not the most important). You'll be in charge of defining the various policies for your company, and help the stakeholders to abide to them. You'll also participate in defining how the compliance to those policies/standards will be enforced and take care of most audit activities.
-## Penetration testing suggested learning roadmap
+## Offensive Security suggested training roadmap
 ### Beginner level
 #### Study material & courses
 | Course name                                                                                                     | Pentest type | Duration  | Cost         |
