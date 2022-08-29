@@ -43,7 +43,7 @@ Blue Team members often work in a SOC (Security Operations Center) and use tools
 |------------------------------------------------------------------------------------------------------------------|--------------|------------|------------|
 | [INE Penetration Testing Professional path](https://ine.com/)                                                    | Infra & Web  | ~66 hours  | 49$ /month |
 | [Offensive Security Penetration Testing with Kali Linux (PEN-200)](https://www.offensive-security.com/pwk-oscp/) | Infra only   | 17+ hours  | From 999$  |
-| [Offensive Security Web Assessor](https://www.offensive-security.com/web200-oswa/)                               | Web only     | ?          | From 2499$ |
+| [Web Attacks with Kali Linux (WEB-200)](https://www.offensive-security.com/web200-oswa/)                               | Web only     | ?          | From 2499$ |
 #### Milestone
 - [eLearnSecurity Certified Professional Penetration Tester (eCPPTv2) certification](https://elearnsecurity.com/product/ecpptv2-certification/)
 - [Offensive Security Certified Professional (OSCP) certification](https://www.offensive-security.com/pwk-oscp/)
@@ -54,8 +54,8 @@ Blue Team members often work in a SOC (Security Operations Center) and use tools
 | Course name                                                                                                     | Pentest type | Duration  | Cost       |
 |-----------------------------------------------------------------------------------------------------------------|--------------|-----------|------------|
 | [INE Advanced Penetration Testing path](https://ine.com/)                                                       | Infra & Web  | ~8 hours  | 49$ /month |
-| [Offensice Security Evasion Techniques and Breaching Defenses](https://www.offensive-security.com/pen300-osep/) | Infra & Web  | 20+ hours | From 1299$ |
-| [Offensive Security Web Expert](https://www.offensive-security.com/awae-oswe/)                                  | Web only     | ?         | From 1649$ |
+| [Evasion Techniques and Breaching Defenses (PEN-300)](https://www.offensive-security.com/pen300-osep/) | Infra & Web  | 20+ hours | From 1299$ |
+| [Advanced Web Attacks and Exploitation (WEB-300)](https://www.offensive-security.com/awae-oswe/)                                  | Web only     | ?         | From 1649$ |
 #### Milestone
 - [eLearnSecurity Certified Penetration Tester eXtreme (eCPPTx) certification](https://elearnsecurity.com/product/ecptx-certification/)
 - [Offensive Security Experienced Penetration Tester (OSEP) certification](https://www.offensive-security.com/pen300-osep/)
