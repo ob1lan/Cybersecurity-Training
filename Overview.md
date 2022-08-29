@@ -1,6 +1,17 @@
 # Overview
 ## Purpose
 The purpose of this page is to list the possible tracks in cybersecurity and highlight relevant training options along with achievable certifications.
+## Pre-Security requirements
+Before deciding which track you'll pursue, it is advised to gain basic understanding of what is cybersecurity and its different areas. The best certification to achieve and proove HR you posses such knowledge is undoubtedly the [CompTIA Security+](https://www.comptia.org/certifications/security).
+
+Whichever track you select from there, you'll find usefull to have at least basic hands-on experience with:
+- Windows operating systems (both client and servers)
+- Linux (especially CLI operations)
+- Networking (routing/switching/IP addressing/firewalling)
+- Active Directory (how it works, common security issues, how to harden)
+
+Numerous ressources exist on internet to gain basic knowledge about those topics, but nothing beats practice, so you should consider building a lab environment to play with and apply what you've learned.
+
 ## About the tracks
 Hereafter a non exhaustive list of tracks one could consider to start a career in cybersecurity.
 - __Offensive Security__: often referred to as "red teaming" (wrongly), this is among the most popular tracks nowadays, yet most likely the most difficult to get started with due to its requirements in term of experience and technical level.
