@@ -26,4 +26,4 @@ The VMs would be as follow:
 | LNX01 | Ubuntu Server | Web Server (LAMP) + Mail Server | 2 | 4 |
 | KALI01 | Kali Linux | Pentesting machine | 2 | 4 |
 | FW01 | pFSense or Check Point GAIA or else | Router/Firewall | 2 | 4 |
-|----------|------|__TOTAL__|14|22|
+|||__TOTAL__|14|22|
