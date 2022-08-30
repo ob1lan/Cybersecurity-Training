@@ -19,11 +19,11 @@ This is just an example of lab setup with enough VMs to simulate a small enterpr
 The VMs would be as follow:
 | VM name   | OS |      Purpose      |  vCPU | RAM |
 |----------|------|-------------|------|------|
-| DC01 | Windows Server 2022 (desktop) |  ADDS Domain Controller + DNS + DHCP | 2 | 2 |
-| DC02 | Windows Server 2022 (core) | ADDS Domain Controller + DNS | 2 | 2 |
-| SRV01 | Windows Server 2022 (core or desktop) | File Server + CA + NPS/RADIUS | 2 | 2 |
-| CLNT01 | Windows 11 Pro | Client and admin station | 2 | 4 |
-| LNX01 | Ubuntu Server | Web Server (LAMP) + Mail Server | 2 | 4 |
-| KALI01 | Kali Linux | Pentesting machine | 2 | 4 |
-| FW01 | pFSense or Check Point GAIA or else | Router/Firewall | 2 | 4 |
-|||__TOTAL__|14|22|
+| DC01 | Windows Server 2022 (desktop) |  ADDS Domain Controller + DNS + DHCP | 2 | 2 Gb |
+| DC02 | Windows Server 2022 (core) | ADDS Domain Controller + DNS | 2 | 2 Gb |
+| SRV01 | Windows Server 2022 (core or desktop) | File Server + CA + NPS/RADIUS | 2 | 2 Gb |
+| CLNT01 | Windows 11 Pro | Client and admin station | 2 | 4 Gb |
+| LNX01 | Ubuntu Server | Web Server (LAMP) + Mail Server | 2 | 4 Gb |
+| KALI01 | Kali Linux | Pentesting machine | 2 | 4 Gb |
+| FW01 | pFSense or Check Point GAIA or else | Router/Firewall | 2 | 4 Gb |
+|||__TOTAL__|14|22 Gb|
