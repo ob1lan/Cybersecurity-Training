@@ -10,7 +10,7 @@ Whichever track you select from there, you'll find usefull to have at least basi
 - Networking (routing/switching/IP addressing/firewalling)
 - Active Directory (how it works, common security issues, how to harden)
 
-Numerous ressources exist on internet to gain basic knowledge about those topics, but nothing beats practice, so you should consider building a lab environment to play with and apply what you've learned.
+Numerous ressources exist on internet to gain basic knowledge about those topics, but nothing beats practice, so you should consider [building a lab environment](https://github.com/ob1lan/Cybersecurity-Training/blob/main/Building%20a%20Lab.md) to play with and apply what you've learned.
 
 ## About the tracks
 Hereafter a non exhaustive list of tracks one could consider to start a career in cybersecurity.
