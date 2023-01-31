@@ -55,10 +55,12 @@ Blue Team members often work in a SOC (Security Operations Center) and use tools
 | [INE Penetration Testing Professional path](https://ine.com/)                                                    | Infra & Web  | ~66 hours  | 49$ /month |
 | [Offensive Security Penetration Testing with Kali Linux (PEN-200)](https://www.offensive-security.com/pwk-oscp/) | Infra only   | 17+ hours  | From 999$  |
 | [Web Attacks with Kali Linux (WEB-200)](https://www.offensive-security.com/web200-oswa/)                               | Web only     | ?          | From 2499$ |
+| [PortSwigger Academy](https://portswigger.net/web-security/learning-path)                               | Web only     | ?          | Free |
 #### Milestone
 - [eLearnSecurity Certified Professional Penetration Tester (eCPPTv2) certification](https://elearnsecurity.com/product/ecpptv2-certification/)
 - [Offensive Security Certified Professional (OSCP) certification](https://www.offensive-security.com/pwk-oscp/)
 - [Offensive Security Web Assessor (OSWA) certification](https://www.offensive-security.com/web200-oswa/)
+- [Burp Suite Certified Practitioner (PortSwigger)](https://portswigger.net/web-security/certification)
 ---
 ### Advanced level
 #### Study material & courses
