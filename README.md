@@ -4,11 +4,14 @@ The purpose of this page is to list the possible tracks in cybersecurity and hig
 ## Pre-Security requirements
 Before deciding which track you'll pursue, it is advised to gain basic understanding of what is cybersecurity and its different areas. The best certification to achieve and proove HR you posses such knowledge is undoubtedly the [CompTIA Security+](https://www.comptia.org/certifications/security).
 
-Whichever track you select from there, you'll find usefull to have at least basic hands-on experience with:
+A new beginner certification was also created by (ISC)² under the simple __[Certified in Cybersecurity](https://www.isc2.org/certified-in-cybersecurity)__ name. Currently the training is free and the certification itself only requires to pay 50USD of annual fees. The main advantage of this certification is that (ISC)² is among the most renowned certification bodies out there.
+
+With that said, whichever track you select from there, you'll find usefull to have at least basic hands-on experience with:
 - Windows operating systems (both client and servers)
 - Linux (especially CLI operations)
 - Networking (routing/switching/IP addressing/firewalling)
 - Active Directory (how it works, common security issues, how to harden)
+- Cloud solutions such as AWS EC2, AWS S3, Azure Cloud,...
 
 Numerous ressources exist on internet to gain basic knowledge about those topics, but nothing beats practice, so you should consider [building a lab environment](https://github.com/ob1lan/Cybersecurity-Training/blob/main/Building%20a%20Lab.md) to play with and apply what you've learned.
 
