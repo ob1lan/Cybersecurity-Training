@@ -1,6 +1,11 @@
+## Table of Content
+- Purpose
+- Symmetric Encryption
+- Asymmetric Encryption
+- Conclusion
+- Further Reading
 ## Purpose
 This page was created to demonstrate the usage and benefits of encryption, along with the differences between symmetric and assymetric encryption.
-
 ## Symmetric Encryption
 ### Definition
 **In short:** Uses the __same key__ to encrypt and decrypt. 
@@ -29,8 +34,8 @@ They would have to enter the correct password/passphrase when prompted.
 ### Problematic
 As you may have noticed, this is nice and cool, but now the problem is the following: how do you securely share the secret key (password/passphrase) required to decrypt the file? Should someone be able to interect the key exchange, they would be able to decrypt any file that used the same passphrase during the encryption process.
 
-This is where assymetric encryption comes in handy, and probably more suited for such use cases.
-## Assymetric Encryption
+This is where asymmetric encryption comes in handy, and probably more suited for such use cases.
+## Asymmetric Encryption
 ### Definition
 **In short:** Uses __a pair of keys__, one to encrypt and the other in the pair to decrypt. Examples are RSA and Elliptic Curve Cryptography. Normally these keys are __referred to as a public key and a private key__. Data encrypted with the private key can be decrypted with the public key, and vice versa. Your private key needs to be kept private, hence the name. Asymmetric encryption tends to be __slower and uses larger keys__, for example RSA typically uses 2048 to 4096 bit keys.
 ### Examples
