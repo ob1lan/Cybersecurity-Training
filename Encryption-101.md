@@ -76,7 +76,7 @@ If Maxime wants to reply to Antoine, how would he do it?
 ## Conclusion
 Try to answer those 2 questions to make sure you understood the differences between the encyption types:
 - When is it best to use symmetric encryption?
-- When is it best to use assymetric encryption?
+- When is it best to use asymmetric encryption?
 
 ## Further Reading
 - [How HTTPS works](https://www.youtube.com/watch?v=w0QbnxKRD0w)
