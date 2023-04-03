@@ -1,9 +1,9 @@
 ## Table of Content
-- Purpose
-- Symmetric Encryption
-- Asymmetric Encryption
-- Conclusion
-- Further Reading
+- [Purpose](https://github.com/ob1lan/Cybersecurity-Training/blob/main/Encryption-101.md#purpose)
+- [Symmetric Encryption](https://github.com/ob1lan/Cybersecurity-Training/blob/main/Encryption-101.md#symmetric-encryption)
+- [Asymmetric Encryption](https://github.com/ob1lan/Cybersecurity-Training/blob/main/Encryption-101.md#asymmetric-encryption)
+- [Conclusion](https://github.com/ob1lan/Cybersecurity-Training/blob/main/Encryption-101.md#conclusion)
+- [Further Reading](https://github.com/ob1lan/Cybersecurity-Training/blob/main/Encryption-101.md#further-reading)
 ## Purpose
 This page was created to demonstrate the usage and benefits of encryption, along with the differences between symmetric and assymetric encryption.
 ## Symmetric Encryption
