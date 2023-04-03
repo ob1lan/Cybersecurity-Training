@@ -80,3 +80,4 @@ Try to answer those 2 questions to make sure you understood the differences betw
 
 ## Further Reading
 - [How HTTPS works](https://www.youtube.com/watch?v=w0QbnxKRD0w)
+- [What Are the Best Use Cases for Symmetric vs Asymmetric Encryption?](https://venafi.com/blog/what-are-best-use-cases-symmetric-vs-asymmetric-encryption/)
