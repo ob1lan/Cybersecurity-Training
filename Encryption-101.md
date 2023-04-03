@@ -53,13 +53,13 @@ openssl rsa -in antoine_private.pem -pubout > antoine_public.pem
 ```
 Of course, Maxime would follow the same steps as outlined above, creating his own key pair. Both would keep their private key secret and won't share it with anybody. Then, they would exchange their public keys, using the medium of their chosing (email for example).
 
-Now, to encrypt his secret message, Antoine needs to use the `openssls -encrypt` command as follow:
+Now, to encrypt his secret message, Antoine needs to use the `openssl -encrypt` command as follow:
 ```shell
 openssl rsautl -encrypt -inkey maxime_public.pem -pubin -in top_secret.txt -out top_secret.enc
 # Check the type of file we have created
 file top_secret.enc 
 # Try to display its content
-cat top_secret.txt 
+cat top_secret.enc
 ```
 Then, Antoine transmits the encrypted file to Maxime, who would then decrypt it using his own private key:
 ```shell
