@@ -31,3 +31,7 @@ volumes:
   db_data:
   wp_data:
 ```
+## Usage
+```shell
+docker compose -d
+```
